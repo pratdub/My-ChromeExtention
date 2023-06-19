@@ -1,0 +1,11 @@
+{
+    "name": "quotes shower",
+    "version": "1.0.0",
+    "description": "This is an extension for daily quotes",
+    "manifest_version": 3,
+    "author": "Prateek Dubey",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "quotes"
+    }
+}
